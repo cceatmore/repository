@@ -1,3 +1,1 @@
-# There's nothing here.
-
-Blog static resource hosting.
+# 资源仓库
